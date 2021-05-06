@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: osso-applet-device 20081201084631\n"
-"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2008.12.01 08:46+0200\n"
 "PO-Revision-Date: 2008.12.01 08:46+0200\n"
 "Last-Translator:\n"
