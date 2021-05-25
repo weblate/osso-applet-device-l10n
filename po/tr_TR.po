@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-applet-device 20081201084631\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2008.12.01 08:46+0200\n"
+"PO-Revision-Date: 2010-05-29 20:42+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "about_ia_bluetooth_address"
+msgstr "Bluetooth adresi: %s"
+
+msgid "about_ia_imei"
+msgstr "IMEI: %s"
+
+msgid "about_ia_version"
+msgstr "Versiyon:"
+
+msgid "about_ia_wimax_mac"
+msgstr "WiMAX MAC adresi: %s"
+
+msgid "about_ia_wlan_mac"
+msgstr "Wi-Fi MAC adresi: %s"
+
+msgid "about_ti_device"
+msgstr "Ürün hakkında"
+
+msgid "devi_ap_application_title"
+msgstr "Ürün hakkında"
